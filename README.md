@@ -17,7 +17,7 @@ Before writing the image, use the **OS Customisation** options to configure:
 
 - Hostname   
   **ex: rpi**
-- Username and password [READ Git instruction](git_setup.md)
+- Username and password [READ Git instruction](git_setup.md#choose-a-username)
 - Enable SSH
 - Wi-Fi settings
 
