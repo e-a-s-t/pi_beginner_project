@@ -15,8 +15,8 @@ Use **[Raspberry Pi Imager](https://www.raspberrypi.com/software/)** to install 
 
 Before writing the image, use the **OS Customisation** options to configure:
 
-- Hostname
-- Username and password
+- Hostname ex: (rpi)
+- Username and password [READ Git inmstruction](git_setup.md)
 - Enable SSH
 - Wi-Fi settings
 
