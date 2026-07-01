@@ -13,7 +13,7 @@ Use **[Raspberry Pi Imager](https://www.raspberrypi.com/software/)** to install 
 >
 > Using the Lite version encourages you to become familiar with the Linux command line and SSH from the start. Nearly all server administration and development on Linux is performed from a terminal, making these skills valuable regardless of your future projects.
 > 
-> Username convetion is described in [READ Git instruction](git_setup.md#choose-a-username)
+> Username convention is described in [Git instruction](git_setup.md#choose-a-username)
 
 Before writing the image, use the **OS Customisation** options to configure:
 
