@@ -6,7 +6,7 @@ This guide provides the high-level steps to prepare a Raspberry Pi 5 for develop
 
 ## 1. Flash Raspberry Pi OS
 
-Use **Raspberry Pi Imager** to install **Raspberry Pi OS Lite (64-bit)** on a microSD card.
+Use **[Raspberry Pi Imager](https://www.raspberrypi.com/software/)** to install **Raspberry Pi OS Lite (64-bit)** on a microSD card.
 
 > [!TIP]
 > This guide recommends **Raspberry Pi OS Lite (64-bit)** instead of the Desktop edition.
