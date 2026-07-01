@@ -44,7 +44,6 @@ After the Raspberry Pi has booted, connect to it using an SSH client from your c
 **Official documentation:**
 
 - Raspberry Pi Remote Access (SSH): https://www.raspberrypi.com/documentation/computers/remote-access.html#ssh
-- Windows OpenSSH: https://learn.microsoft.com/windows/terminal/tutorials/ssh
 
 ## 4. Install Homebrew
 
